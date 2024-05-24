@@ -1,1 +1,1 @@
-from PoseNet import *
+from .PoseNet import *
